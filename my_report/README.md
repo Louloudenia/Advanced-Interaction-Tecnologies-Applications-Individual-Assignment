@@ -59,7 +59,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 ![10](https://user-images.githubusercontent.com/116377276/199602277-050dc479-7d9f-477b-8abc-656c4feee560.png)
 
-
+.
 
 # 2nd Deliverable
 
