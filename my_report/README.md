@@ -55,7 +55,10 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 5. Augmented Reality:
 Μελέτησα το My first AR exploration with Processing, διάβασα τις οδηγίες χρήσης της βιβλιοθήκης NyARToolkit και εγκατάστησα την τελευταία έκδοση της.
-Άνοιξα το example simpleLite
+Άνοιξα το example simpleLite και το προσάρμοσα κατάλληλα, ώστε με την επιτυχή αναγνώριση από την κάμερα του marker Hiro να εμφανίζεται η εικόνα που επέλεξα (squares.png).
+
+![10](https://user-images.githubusercontent.com/116377276/199602277-050dc479-7d9f-477b-8abc-656c4feee560.png)
+
 
 
 # 2nd Deliverable
