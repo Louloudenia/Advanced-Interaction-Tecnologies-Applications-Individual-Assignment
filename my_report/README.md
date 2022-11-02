@@ -54,7 +54,8 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 
 5. Augmented Reality:
-
+Μελέτησα το My first AR exploration with Processing, διάβασα τις οδηγίες χρήσης της βιβλιοθήκης NyARToolkit και εγκατάστησα την τελευταία έκδοση της.
+Άνοιξα το example simpleLite
 
 
 # 2nd Deliverable
