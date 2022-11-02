@@ -21,9 +21,10 @@
 
 
 2. Recorded video:
-
-PIXABAY - Countdown sfalma
-Videvo - to allo video sfalma
+Μελέτησα το Example 16-4 και Example 16-5 από το http://learningprocessing.com/ .
+Κατέβασα ένα 6'' video από το Videvo και το αποθήκευσα στον data φάκελο.
+Είδα videos από το κανάλι The Coding Train στο Youtube και εφάρμοσα αυτά που λέει ώστε το βίντεο που παίζει σε επανάληψη να κινείται με ταχύτητα ανάλογη με το πως κινέιται το ποντίκι μου (όσο πιο αριστερά - τόσο πιο αργά παίζει το video, όσο πιο δεξιά - τόσο πιο γρήγορη αναπαραγωγή του).
+![6](https://user-images.githubusercontent.com/116377276/199562031-d984456e-21fd-48b6-972b-e3e58d98c6dc.png)
 
 
 
@@ -31,7 +32,7 @@ Videvo - to allo video sfalma
 3. QR Code:
 
 Κατέβασα την βιβλιοθήκη (QRCode 0.3a Daniel Shiffman) από την διεύθυνση συνδέσμου στο Processing QRCode Library. 
-Δημιούργησα το QR code μου στο QR Code Generetor που οδηγεί στο προσωπικό μου λογαριασμό στο Github.
+Δημιούργησα το QR code μου στο QR Code Generetor που οδηγεί στο προσωπικό μου λογαριασμό στο Github και το αποθήκευσα στον data φάκελο.
 Χρησιμοποίησα το example 15-1 (http://learningprocessing.com/examples/chp15/example-15-01-drawimage#), προσάρμοσα μέσα σε αυτό το QR code μου και πρόσθεσα το εξής: με το που πατάω πάνω στο image με το qr code μου και κάνω ¨κλικ¨ με το ποντίκι να ανοίγει το προφίλ μου στο Github σε μία νέα καρτέλα.
 
 ![qrcodeLouloudenia](https://user-images.githubusercontent.com/116377276/199368200-fe6d5851-19c2-4a36-862c-2c94c31d1a75.png)
