@@ -21,6 +21,7 @@
 
 
 2. Recorded video:
+
 Μελέτησα το Example 16-4 και Example 16-5 από το http://learningprocessing.com/ .
 Κατέβασα ένα 6'' video από το Videvo και το αποθήκευσα στον data φάκελο.
 Είδα videos από το κανάλι The Coding Train στο Youtube και εφάρμοσα αυτά που λέει ώστε το βίντεο που παίζει σε επανάληψη να κινείται με ταχύτητα ανάλογη με το πως κινέιται το ποντίκι μου (όσο πιο αριστερά - τόσο πιο αργά παίζει το video, όσο πιο δεξιά - τόσο πιο γρήγορη αναπαραγωγή του).
@@ -54,6 +55,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 
 5. Augmented Reality:
+
 Μελέτησα το My first AR exploration with Processing, διάβασα τις οδηγίες χρήσης της βιβλιοθήκης NyARToolkit και εγκατάστησα την τελευταία έκδοση της.
 Άνοιξα το example simpleLite και το προσάρμοσα κατάλληλα, ώστε με την επιτυχή αναγνώριση από την κάμερα του marker Hiro να εμφανίζεται η εικόνα που επέλεξα (squares.png).
 
@@ -63,6 +65,23 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 # 2nd Deliverable
 
+1.  Background Removal:
+
+Μελέτησα το Example 16-12 από το http://learningprocessing.com/.
+Επίσης, χρησιμοποίησα το Exersize 16-6 και άλλαξα τον κώδικα για να τον προσαρμόσω στα ζητούμενα του ερωτήματος.
+Έφτιαξα έναν φάκελο data και αποθήκευσα την εικόνα που θα χρησιμοποιήσω για την αντικατάσταση του greenscreen.
+
+
+2. Motion Detection:
+
+Μελέτησα το Example 16-11 και το Example 16-13 από το http://learningprocessing.com/.
+Μετέπειτα, χρησιμοποίησα το Exersize 16-7.
+
+
+3. Background Substraction - Library use:
+
+4. Object Tracking: 
+ 
 
 # 3rd Deliverable 
 
