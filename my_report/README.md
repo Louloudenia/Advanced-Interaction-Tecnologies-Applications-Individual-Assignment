@@ -106,7 +106,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 Σε σχέση με το παραδοσιακό ποντίκι ποια είναι τα πλεονεκτήματα και ποια τα μειονεκτήματα αυτής της τεχνικής ελέγχου ενός ή περισσότερων σημείων σε μια οθόνη;
 
-NA KANW TO ERVTHMA 1, TO 3 KAI TIS ERWTHSEIS!
+NA KANW TO ERVTHMA 1, TO 3 KAI TIS ERWTHSEIS kAI NA PERASW TA ARXEIA TOY KWDIKA STO RESOURCE.
 
 
 
