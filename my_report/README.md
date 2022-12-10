@@ -69,6 +69,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 1.  Background Removal:
 
 Μελέτησα το Example 16-12 από το http://learningprocessing.com/. Επίσης, χρησιμοποίησα το Exersize 16-6 και άλλαξα τον κώδικα για να τον προσαρμόσω στα ζητούμενα του ερωτήματος (χρησιμοποίησα και το example 16-4 για να βάλω loop στο video μου). Κατέβασα ένα video για να χρησιμοποιήσω ως background από https://pixabay.com/videos/. Έφτιαξα έναν φάκελο data και το αποθήκευσα.
+
 ![11](https://user-images.githubusercontent.com/116377276/206869399-c02d3558-188c-467d-8db9-9b188354bc8e.jpg)
 
 
@@ -78,7 +79,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 Μελέτησα το Example 16-11 και το Example 16-13 από το http://learningprocessing.com/. Μετέπειτα, χρησιμοποίησα το Exersize 16-7 και άλλαξα στον κώδικα κάποιες λεπτομέρειες (threshold, fill και rectangle). Εκτέλεσα το πρόγραμμα και το rectangle ακολουθούσε τις κινήσεις μου (χεριού).
 
-ΝΑ ΕΛΕΓΞΩ ΤΗΝ ΚΙΝΗΣΗ + SCREENSHOT
+![12](https://user-images.githubusercontent.com/116377276/206870112-c616e1e1-de2b-4c96-a407-9036688af055.jpg)
 
 
 
