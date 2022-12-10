@@ -63,6 +63,7 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 .
 
+
 # 2nd Deliverable
 
 1.  Background Removal:
@@ -71,14 +72,28 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 Επίσης, χρησιμοποίησα το Exersize 16-6 και άλλαξα τον κώδικα για να τον προσαρμόσω στα ζητούμενα του ερωτήματος.
 Έφτιαξα έναν φάκελο data και αποθήκευσα την εικόνα που θα χρησιμοποιήσω για την αντικατάσταση του greenscreen.
 
+SCREENSHOT
+
+
+
 
 2. Motion Detection:
 
 Μελέτησα το Example 16-11 και το Example 16-13 από το http://learningprocessing.com/.
-Μετέπειτα, χρησιμοποίησα το Exersize 16-7.
+Μετέπειτα, χρησιμοποίησα το Exersize 16-7 και άλλαξα στον κώδικα κάποιες λεπτομέρειες (threshold, fill και rectangle).
+Εκτέλεσα το πρόγραμμα και το rectangle ακολουθούσε τις κινήσεις μου (χεριού).
+
+ΝΑ ΕΛΕΓΞΩ ΤΗΝ ΚΙΝΗΣΗ + SCREENSHOT
+
+
 
 
 3. Background Substraction - Library use:
+
+Κατέβασα την βιβλιοθήκη OpenCV for Processing, άνοιξα το παράδειγμα BackgroundSubtraction και αντί για το υπάρχον βίντεο (street.mov) το διαμόρφωσα ώστε να υπάρχει είσοδος από την κάμερα για τον εντοπισμό των κινούμενων αντικειμένων.
+
+
+
 
 4. Object Tracking: 
  
