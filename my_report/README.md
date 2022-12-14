@@ -68,7 +68,14 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 1.  Background Removal:
 
-Μελέτησα το Example 16-12 από το http://learningprocessing.com/. Επίσης, χρησιμοποίησα το Exersize 16-6 και άλλαξα τον κώδικα για να τον προσαρμόσω στα ζητούμενα του ερωτήματος (χρησιμοποίησα και το example 16-4 για να βάλω loop στο video μου). Κατέβασα ένα video για να χρησιμοποιήσω ως background από https://pixabay.com/videos/. Έφτιαξα έναν φάκελο data και το αποθήκευσα.
+ΕΙΚΟΝΑ: 
+Μελέτησα το Example 16-12 από το http://learningprocessing.com/. Επίσης, χρησιμοποίησα το Exersize 16-6 και άλλαξα τον κώδικα για να τον προσαρμόσω στα ζητούμενα του ερωτήματος.  
+
+![17](https://user-images.githubusercontent.com/116377276/207694474-a58cc6dc-c6c8-4c05-8d2f-937d64e063bc.jpg)
+
+
+VIDEO:
+Χρησιμοποίησα και το example 16-4 για να βάλω loop στο video μου. Κατέβασα ένα video για να χρησιμοποιήσω ως background από https://pixabay.com/videos/. Έφτιαξα έναν φάκελο data και το αποθήκευσα.
 
 ![11](https://user-images.githubusercontent.com/116377276/206869399-c02d3558-188c-467d-8db9-9b188354bc8e.jpg)
 
