@@ -75,9 +75,11 @@ NOTE: Δεν μου αναγνώριζε το QR Code μου, οπότε δοκ�
 
 
 VIDEO:
-Χρησιμοποίησα και το example 16-4 για να βάλω loop στο video μου. Κατέβασα ένα video για να χρησιμοποιήσω ως background από https://pixabay.com/videos/. Έφτιαξα έναν φάκελο data και το αποθήκευσα.
+Κατέβασα ένα video για να χρησιμοποιήσω ως background από https://pixabay.com/videos/. Έφτιαξα έναν φάκελο data και το αποθήκευσα. Μου έβγαζε το παρακάτω σφάλμα και δεν ήξερα πως να το διορθώσω (φαίνεται και στο screenshot).
+        pixels[loc] = mybackgroundReplace.pixels[loc];
 
-![11](https://user-images.githubusercontent.com/116377276/206869399-c02d3558-188c-467d-8db9-9b188354bc8e.jpg)
+![18](https://user-images.githubusercontent.com/116377276/207698125-f61d5be3-8b80-4ac0-89f3-518c201c05f6.jpg)
+
 
 
 
@@ -95,6 +97,7 @@ VIDEO:
 
 Κατέβασα την βιβλιοθήκη OpenCV for Processing, άνοιξα το παράδειγμα BackgroundSubtraction και αντί για το υπάρχον βίντεο (street.mov) το διαμόρφωσα ώστε να υπάρχει είσοδος από την κάμερα για τον εντοπισμό των κινούμενων αντικειμένων.
 
+![19](https://user-images.githubusercontent.com/116377276/207699823-7dd2169c-60ea-45b4-b61b-d38fe92bb38f.jpg)
 
 Ποια είναι τα πλεονεκτήματα και μειονεκτήματα της έτοιμης βιβλιοθήκης έναντι του κώδικα από το πρώτο ερώτημα;
 
