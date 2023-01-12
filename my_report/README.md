@@ -130,6 +130,8 @@ VIDEO:
 -Εγκατέστησα το Java Runtime Environment.
 -Παρακολούθησα το συγκεκριμένο video για να βοηθηθώ https://www.youtube.com/watch?v=tJ0aZzST-N4. 
 
+![20](https://user-images.githubusercontent.com/116377276/212131551-6cc61e7a-ef60-40d4-b954-76537a731cf6.jpg)
+![21](https://user-images.githubusercontent.com/116377276/212131570-2cbe0f7a-36af-4949-a6b2-1b243bbbce7d.jpg)
 
 
 # Bonus 
