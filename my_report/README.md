@@ -122,6 +122,15 @@ VIDEO:
 
 # 3rd Deliverable 
 
+1. reacTIVation – Installation:
+
+-Εγκατέστησα την εφαρμογή reacTIVision vision engine.
+-Εγκατέστησα την βιβλιοθήκη reacTIVision στο Processing.
+-Εγκατέστησα την εφαρμογή TUIO Simulator.
+-Εγκατέστησα το Java Runtime Environment.
+-Παρακολούθησα το συγκεκριμένο video για να βοηθηθώ https://www.youtube.com/watch?v=tJ0aZzST-N4. 
+
+
 
 # Bonus 
 
