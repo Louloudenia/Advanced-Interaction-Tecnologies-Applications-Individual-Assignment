@@ -124,14 +124,13 @@ VIDEO:
 
 1. reacTIVation – Installation:
 
--Εγκατέστησα την εφαρμογή reacTIVision vision engine.
--Εγκατέστησα την βιβλιοθήκη reacTIVision στο Processing.
--Εγκατέστησα την εφαρμογή TUIO Simulator.
--Εγκατέστησα το Java Runtime Environment.
--Παρακολούθησα το συγκεκριμένο video για να βοηθηθώ https://www.youtube.com/watch?v=tJ0aZzST-N4. 
-
+Εγκατέστησα την εφαρμογή reacTIVision vision engine, την βιβλιοθήκη reacTIVision στο Processing, την εφαρμογή TUIO Simulator και το Java Runtime Environment.
+Παρακολούθησα το συγκεκριμένο video για να βοηθηθώ https://www.youtube.com/watch?v=tJ0aZzST-N4 και να καταλάβω πλήρως πως λειτουργεί το simulator.
 ![20](https://user-images.githubusercontent.com/116377276/212131551-6cc61e7a-ef60-40d4-b954-76537a731cf6.jpg)
 ![21](https://user-images.githubusercontent.com/116377276/212131570-2cbe0f7a-36af-4949-a6b2-1b243bbbce7d.jpg)
+ Έπειτα, κατέβασα μια εικόνα από το Pinterest και την αποθήκευσα στον data φάκελο.
+ Οι αριθμοί 0,1,2,3,4 αντιπροσωπεύουν τα fiducials 0,1,2,3,4 στο TUIO Simulator αντίστοιχα και δημιουργούν διάφορες μορφοποιήσεις στην εικόνα, π.χ.
+
 
 
 # Bonus 
