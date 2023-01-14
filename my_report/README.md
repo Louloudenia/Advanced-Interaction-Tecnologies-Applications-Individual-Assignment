@@ -126,14 +126,22 @@ VIDEO:
 
 Εγκατέστησα την εφαρμογή reacTIVision vision engine, την βιβλιοθήκη reacTIVision στο Processing, την εφαρμογή TUIO Simulator και το Java Runtime Environment.
 Παρακολούθησα το συγκεκριμένο video για να βοηθηθώ https://www.youtube.com/watch?v=tJ0aZzST-N4 και να καταλάβω πλήρως πως λειτουργεί το simulator.
+
 ![20](https://user-images.githubusercontent.com/116377276/212131551-6cc61e7a-ef60-40d4-b954-76537a731cf6.jpg)
 ![21](https://user-images.githubusercontent.com/116377276/212131570-2cbe0f7a-36af-4949-a6b2-1b243bbbce7d.jpg)
+
 
 
  Έπειτα, κατέβασα μια εικόνα από το Pinterest και την αποθήκευσα στον data φάκελο.
  Οι αριθμοί 0,1,2,3,4 αντιπροσωπεύουν τα fiducials 0,1,2,3,4 στο TUIO Simulator αντίστοιχα και δημιουργούν διάφορες μορφοποιήσεις στην εικόνα, π.χ. 0: εισαγωγή εικόνας στο πλαίσιο, 1: μετακίνηση εικόνας (αριστερό κλικ) και rotate (δεξί κλικ), 2: μεγέθυνση εικόνας (αριστερό κλικ) και μεγέθυνση-σμίκρυνση (δεξί κλικ), 3: αλλαγή χρώματος, δηλαδή η εικόνα γίνεται μωβ (αριστερό κλικ) και πόσο έντονο θα είναι το μωβ (δεξί κλικ), 4: opacity.
  
-
+![22](https://user-images.githubusercontent.com/116377276/212473894-279c0d63-324e-4a79-aa26-8839cd0bbbb0.jpg)
+![23](https://user-images.githubusercontent.com/116377276/212473901-b8b2966d-e0bf-4ca3-a403-fc02133497e9.jpg)
+![24](https://user-images.githubusercontent.com/116377276/212473904-44d121ee-fce6-4ae4-848e-800b497c7d6f.jpg)
+![25](https://user-images.githubusercontent.com/116377276/212473906-ecd618ee-93cd-4419-8355-470c666ae07a.jpg)
+![26](https://user-images.githubusercontent.com/116377276/212473908-aa8aa54c-7ca1-4fac-9ad2-0b6194de910f.jpg)
+![27](https://user-images.githubusercontent.com/116377276/212473911-fb9f32aa-3399-413d-9fc6-cd752a123926.jpg)
+![28](https://user-images.githubusercontent.com/116377276/212473915-66c06e56-749d-40a2-a3bd-7912efea49e6.jpg)
 
 
 # Bonus 
